@@ -68,12 +68,15 @@ The performance of ARIMA and TSDiff models was evaluated using the following met
 <br/>
 <img src="./images/result_1.png" width="97%">
 <img src="./images/result_2.png" width="97%">
-<center><em>Evaluation of ARIMA and TSDiff models on test data.</em></center>
+<p align="center"><em>Evaluation of ARIMA and TSDiff models on test data.</em></p>
+
 <br/>
-<img src="./images/^GSPC_ARIMA.png" width="32%">
-<img src="./images/^GSPC_tsdiff_Mean.png" width="32%">
-<img src="./images/^GSPC_tsdiff_Median.png" width="32%">
-<center><em>ARIMA and TSDiff predictions (mean and median) on S&P 500 (^GSPC) test data.</em></center>
+
+<p align="center">
+<img src="./images/GSPC_ARIMA.png" width="32%">
+<img src="./images/GSPC_tsdiff_Mean.png" width="32%">
+<img src="./images/GSPC_tsdiff_Median.png" width="32%">
+<em>ARIMA and TSDiff predictions (mean and median) on S&P 500 (^GSPC) test data.</em></p>
 
 ### **Key Observations**  
 - ARIMA consistently outperformed the TSDiff model with lower MAE and MSE for all stock tickers.  
