@@ -94,6 +94,6 @@ The performance of ARIMA and TSDiff models was evaluated using the following met
 - `yfinance`  
 - `pmdarima`  
 - `torch`  
-- `tsdiff` (from the official repo)  
-
+- `tsdiff` (from the official repo)
+### Team :- Arun , Rohit, Sunith
 ---
