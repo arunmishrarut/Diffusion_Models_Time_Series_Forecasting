@@ -1,4 +1,5 @@
 # **Stock Price Forecasting using ARIMA and TSDiff**
+### Team :- Arun , Rohit, Sunith
 
 This project compares the performance of the **ARIMA** model with the **TSDiff** model on stock price prediction tasks using stock data collected from Yahoo Finance. The goal is to evaluate the accuracy and trend-following capabilities of both models on real-world financial time series data.
 
@@ -95,5 +96,5 @@ The performance of ARIMA and TSDiff models was evaluated using the following met
 - `pmdarima`  
 - `torch`  
 - `tsdiff` (from the official repo)
-### Team :- Arun , Rohit, Sunith
+
 ---
